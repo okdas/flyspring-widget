@@ -1,0 +1,1 @@
+FlySpringWigdet.serverResponse({name: 'Test server', currentOnline: 35, maxOnline: 100});

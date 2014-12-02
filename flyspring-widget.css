@@ -1,0 +1,21 @@
+#flyspring-widget {
+    width: 100px;
+    height: 100px;
+}
+
+#flyspring-widget > svg {
+    width: 100%;
+    display: block;
+}
+
+#flyspring-widget #flyspring-online {
+    font-size: 4em;
+    position: absolute;
+    /*color: #6FD57F;*/
+
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
